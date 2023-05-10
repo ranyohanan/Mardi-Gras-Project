@@ -334,4 +334,8 @@
                 font-size: 1.5rem;
             }
 
+            #main {
+                margin-right: 12px;
+            }
+
         }

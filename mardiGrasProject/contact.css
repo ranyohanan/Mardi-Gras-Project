@@ -124,19 +124,20 @@
 
 
         #btn2 {
-            width: 100px;
+            width: 90px;
             height: 3.5vh;
             background-color: #f2f2f2;
             color: #9453a6;
             border-radius: 100px;
             border: none;
-            margin-left: 175px;
-            margin-top: 15px;
+            margin-bottom: -30vh;
             cursor: pointer;
             padding: 3px;
             font-family: 'pattaya',
                 'sans sarif';
             font-size: 20px;
+            display: flex;
+            padding: 5px;
         }
 
         span {
@@ -393,6 +394,7 @@
 
             #sec1 {
                 width: 90vw;
+                margin-right: 15px;
             }
 
             span {
@@ -400,5 +402,13 @@
                     sans-serif;
                 font-size: 1.2rem;
                 margin-left: 5px;
+            }
+
+            #main {
+                margin-right: 12px;
+            }
+
+            #btn2 {
+                margin-bottom: -40vh;
             }
         }
