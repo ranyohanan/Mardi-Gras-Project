@@ -19,7 +19,7 @@ btn2.addEventListener('click', function () {
         error2.style.color = 'red';
         email.focus();
     } else if (tArea.value == '') {
-        error3.innerHTML = 'Please Enter Name!';
+        error3.innerHTML = 'Please Enter Message!';
         error3.style.color = 'red';
         tArea.focus();
     }
